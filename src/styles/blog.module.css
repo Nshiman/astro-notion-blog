@@ -13,10 +13,10 @@
 }
 
 .post {
-  margin: 40px auto;
+  margin: 20px auto;
   padding: 20px; /* 上下左右の余白を確保するためにpaddingを使用 */
   background-color: #FFFFFF; /* 白い背景色に設定 */
-  border-radius: 15px; /* 四つ角を丸くする */
+  border-radius: 10px; /* 四つ角を丸くする */
 }
 
 .post footer {
