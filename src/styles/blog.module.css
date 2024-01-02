@@ -17,6 +17,8 @@
   padding: 40px; /* 上下左右の余白を確保するためにpaddingを使用 */
   background-color: #FFFFFF; /* 白い背景色に設定 */
   border-radius: 10px; /* 四つ角を丸くする */
+  max-width: 1000px; /* 画面サイズに広げるために最大幅を指定 */
+  width: 90%; /* 幅の設定 */
 }
 
 .post footer {
