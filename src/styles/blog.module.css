@@ -14,6 +14,7 @@
 
 .post {
   margin: 0 auto 40px;
+  background-color: blueviolet;
 }
 .post footer {
   margin-top: 0.5rem;
