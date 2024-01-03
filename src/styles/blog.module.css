@@ -14,7 +14,7 @@
 
 .post {
   margin: 20px auto;
-  padding: 40px 40px; /* 上下に40px、左右にそれぞれ100pxの余白を確保 */
+  padding: 30px; /* 上下に40px、左右にそれぞれ100pxの余白を確保 */
   background-color: #FFFFFF;
   border-radius: 10px;
 }
